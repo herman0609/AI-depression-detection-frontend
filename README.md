@@ -11,4 +11,4 @@ Enhancing Depression Detection in Social Media using Multimodal methods: A Scala
 
 ## Backend
 
-https://github.com/wall-e-DM/Multimodel-Depression-Dectector.git
+https://github.com/herman0609/AI_multimodal_depression_detection
